@@ -1,5 +1,1 @@
-<!-- Simple text link -->
-<a href="https://insightpa.schoology.com/home#/?_k=hy03hd" target="_blank">Open GitHub</a>
-
-<!-- Clickable button -->
-<button onclick="window.open('https://insightpa.schoology.com/home#/?_k=hy03hd', '_blank')">Go to GitHub</button>
+Link: https://insightpa.schoology.com/home#/?_k=hy03hd
